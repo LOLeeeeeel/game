@@ -1,3 +1,5 @@
-title{
-    color: aqua;
-}
+.background {
+    background-color: aqua;
+    background-position: center;
+    background-size: cover;
+  }
